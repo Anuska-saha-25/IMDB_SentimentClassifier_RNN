@@ -19,6 +19,7 @@ The model predicts whether a given movie review is **Positive** or **Negative**.
 ## 🗂️ Project Structure
 
 IMDB_Sentiment_RNN/
+
 │
 ├── IMDB_Sentiment_Classifier.ipynb     # Colab notebook
 ├── README.md                           # Documentation
