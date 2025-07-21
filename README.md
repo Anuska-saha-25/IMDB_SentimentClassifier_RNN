@@ -22,7 +22,9 @@ IMDB_Sentiment_RNN/
 
 │
 ├── IMDB_Sentiment_Classifier.ipynb     # Colab notebook
+
 ├── README.md                           # Documentation
+
 ├── requirements.txt                    # Dependencies
 
 
