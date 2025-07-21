@@ -1,0 +1,6 @@
+## **`requirements.txt`**
+# This file lists the Python packages required for the project.
+
+tensorflow
+numpy
+matplotlib
